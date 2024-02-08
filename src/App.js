@@ -10,4 +10,11 @@ function App() {
   );
 }
 
+
+function PlayingWithProps({property1, property2}) {
+  return(
+    <div>cuh </div>
+  )
+}
+
 export default App;
